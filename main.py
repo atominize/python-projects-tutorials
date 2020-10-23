@@ -1,3 +1,5 @@
+import random
+
 print("Hello World")
 
 firstNumber = 2
@@ -8,3 +10,6 @@ print(result)
 # Data Types
 # 1. numbers
 # 2. strings
+
+random = random.randint(1, 100)
+print(random)
